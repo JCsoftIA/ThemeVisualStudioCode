@@ -19,7 +19,7 @@ recuerda  que al abrir el cmd
 se te posicionara en la parte de C:\Users\ {UserName}\
 y tendras que hacer los comandos desde aqui
 
-<p align="center" style="color:green">Comandos a Realizar</p>
+<p align="center" color='green'>Comandos a Realizar</p>
 
 
 >$ git clone https://github.com/JCsoftIA/ThemeVisualStudioCode.git .vscode/extensions/theme-JuanCarlos
