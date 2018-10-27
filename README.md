@@ -9,7 +9,18 @@ pues es muy simple solo tienes que tener
 y
 >[node](https://nodejs.org/es/download/)
 
-instalado y realizar los siguientes comandos tal como esta
+instalado 
+
+--abrimos el cmd--
+recuerda  que al abrir el cmd
+
+>(Shift+R y escribes CMD y luego precionas enter)
+
+se te posicionara en la parte de C:\Users\ {UserName}\
+y tendras que hacer los comandos desde aqui
+
+<p align="center" style="color:green">Comandos a Realizar</p>
+
 
 >$ git clone https://github.com/JCsoftIA/ThemeVisualStudioCode.git .vscode/extensions/theme-JuanCarlos
 
@@ -19,12 +30,6 @@ instalado y realizar los siguientes comandos tal como esta
 
 >$ npm run build
 
-recuerda  que al abrir el cmd
-
->(Shift+R y escribes CMD y luego precionas enter)
-
-se te posicionara en la parte de C:\Users\ {UserName}\
-y tendras que hacer los comandos desde aqui
 
 
 ahora como lo activo?
