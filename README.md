@@ -15,3 +15,10 @@ $ npm run build
 
 recuerda  que al abrir el cmd (Shift+R y escribes CMD y luego precionas enter)se te posicionara en la parte de C:\Users\{UserName}\
 y tendras que hacer los comandos desde aqui
+
+
+ahora como lo activo?
+Si estas en español te diriges a Archivo->Preferencias->Tema de Color, precionas enter y elijes JuanCarlos
+Si estas en ingles pues solo te diriges a File -> Preferences -> Color Theme y eliges JuanCarlos
+
+o simplemente con Ctrl+Shift+P y buscas Preferencias:Tema de Color y hualaa es lo mismo pero mas simple 
