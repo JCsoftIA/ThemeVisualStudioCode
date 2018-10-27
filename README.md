@@ -19,7 +19,11 @@ instalado y realizar los siguientes comandos tal como esta
 
 >$ npm run build
 
-recuerda  que al abrir el cmd (Shift+R y escribes CMD y luego precionas enter)se te posicionara en la parte de C:\Users\ {UserName}\
+recuerda  que al abrir el cmd
+
+>(Shift+R y escribes CMD y luego precionas enter)
+
+se te posicionara en la parte de C:\Users\ {UserName}\
 y tendras que hacer los comandos desde aqui
 
 
