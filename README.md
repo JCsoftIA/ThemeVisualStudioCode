@@ -5,7 +5,7 @@ como instalo?
 
 pues es muy simple solo tienes que tener
 
->git[git](https://git-scm.com/downloads).
+>[git](https://git-scm.com/downloads).
 
 y
 
