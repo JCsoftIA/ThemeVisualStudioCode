@@ -7,7 +7,9 @@
 	"publisher": "JuanCarlos-theme",
 	"license": "MIT",
 	"scripts": {
+		"attach": "./bootstrap.sh attach",
 		"build": "node ./build.js",
+		"eject": "./bootstrap.sh eject",
 		"package": "vsce package -o ./bin/JuanCarlos.vsix",
 		"vscode:prepublish": "npm run build"
 	},
@@ -37,7 +39,7 @@
 		"theme",
 		"color-theme"
 	],
-	"icon": "icon.png",
+	"icon": "icon.jpg",
 	"galleryBanner": {
 		"color": "#3c4557",
 		"theme": "dark"
