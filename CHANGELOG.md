@@ -192,7 +192,7 @@ Thanks @ajitid for your contribution!
 
 ### Patch
 
-- Improve `dracula-soft` theme by heavily desaturating the bright/intense colors of the theme while leaving the darker/softer colors as-is.
+- Improve `JuanCarlos-soft` theme by heavily desaturating the bright/intense colors of the theme while leaving the darker/softer colors as-is.
 
 **Notes:** Mac users should have a better experience with this one. Feel free to leave any critiques/comments on #30 on github and we'll go from there.
 
@@ -220,7 +220,7 @@ Huge thanks to @hackwaly for his help on this!
 
 ### Minor
 
-- Apply dracula theme to (nearly) all the newly released UI scopes that became available in VSCode 1.13.0.
+- Apply JuanCarlos theme to (nearly) all the newly released UI scopes that became available in VSCode 1.13.0.
 - Add support for `Haskell` and (some) other Standard ML languages.
 
 ### Patch
@@ -254,12 +254,6 @@ If you'd prefer your bracket matches highlighted with a noticable color, add the
 ---
 
 ## 2.0.0
-
-The theme has been completely overhauled in accordance to the new [Dracula Theme Specification RFC](https://github.com/dracula/dracula-theme/issues/232) that I put together.
-
-All languages provided by VSCode as well as `GraphQL` and `TOML` were scrutinized and have been confirmed to be spec compliant with a few exceptions (see [`known_issues.md`](https://github.com/dracula/visual-studio-code/blob/master/known_issues.md) in this repo for details). (#38)
-
-Please leave your comments in the RFC issue thread if you have any suggestions.
 
 ### Minor
 
@@ -298,7 +292,7 @@ Please leave your comments in the RFC issue thread if you have any suggestions.
 
 ### Minor
 
-- Add `Dracula Soft` theme variant (beta - comments/critiques welcomed). #30
+- Add `JuanCarlos Soft` theme variant (beta - comments/critiques welcomed). #30
 
 ### Patch
 
@@ -459,7 +453,7 @@ Thanks @DanielRamosAcosta for the contribution!
 
 The goal of the next several upcoming updates is to improve the uniformity of semantic highlighting between languages. I find it personally disorienting when using one language that has cyan as the color for types and then switch to another where it is green. The experience should be seamless across all languages.
 
-I've [opened an issue on github](https://github.com/dracula/visual-studio-code/issues/12) for this process. Your feedback is welcomed and encouraged!
+I've [opened an issue on github](https://github.com/JCsoftIA/visual-studio-code/) for this process. Your feedback is welcomed and encouraged!
 
 ---
 

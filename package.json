@@ -26,10 +26,10 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/JuanCarlos/visual-studio-code.git"
+		"url": "https://github.com/JCsoftIA/visual-studio-code.git"
 	},
 	"bugs": {
-		"url": "https://github.com/JuanCarlos/visual-studio-code/issues"
+		"url": "https://github.com/JCsoftIA/visual-studio-code/issues"
 	},
 	"engines": {
 		"vscode": "^1.13.0"
@@ -58,7 +58,7 @@
 			{
 				"label": "JuanCarlos Soft",
 				"uiTheme": "vs-dark",
-				"path": "./theme/JuanCarlos-soft.json"
+				"path": "./theme/JuanCarlos-soft-IA.json"
 			}
 		]
 	},

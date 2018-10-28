@@ -47,6 +47,6 @@ fs.writeFileSync(
     JSON.stringify(yaml.load(standard, { schema }), null, 4)
 );
 fs.writeFileSync(
-    path.join(THEME_DIR, 'JuaCarlos-soft-Ia.json'),
+    path.join(THEME_DIR, 'JuanCarlos-soft-IA.json'),
     JSON.stringify(yaml.load(soft, { schema }), null, 4)
 );

@@ -5,7 +5,7 @@ maintainers:
 semanticClass: theme.JuanCarlos
 JuanCarlos:
   base:
-    # - &BG        '#282A36'
+    # - &BG        '#000'
     - &BG        '#000'
     - &FG        '#F8F8F2'
     - &SELECTION '#44475A'
