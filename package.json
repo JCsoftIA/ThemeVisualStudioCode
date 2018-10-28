@@ -1,5 +1,5 @@
 {
-	"name": "theme-JuanCarlos",
+	"name": "theme_juancarlos",
 	"version": "2.14.1",
 	"displayName": "JuanCarlos Official",
 	"homepage": "https://JuanCarlostheme.com/",
@@ -7,22 +7,16 @@
 	"publisher": "JuanCarlos-theme",
 	"license": "MIT",
 	"scripts": {
-		"attach": "./bootstrap.sh attach",
 		"build": "node ./build.js",
-		"eject": "./bootstrap.sh eject",
 		"package": "vsce package -o ./bin/JuanCarlos.vsix",
 		"vscode:prepublish": "npm run build"
 	},
 	"maintainers": [
-		"Derek P Sifford <dereksifford@gmail.com>"
+		"Juan Carlos Valencia Lopez <ajcarlos032@gmail.com>"
 	],
 	"contributors": [
-		"Krzysztof Wisznarewski",
-		"Daniel Ramos",
-		"Eric Jackson",
-		"Elliott Pogue",
-		"Ajit Singh",
-		"Teddy Bradford"
+		"Juan Carlos Valencia Lopez"
+		
 	],
 	"repository": {
 		"type": "git",
@@ -68,8 +62,8 @@
 		"tinycolor2": "^1.4.1"
 	},
 	"__metadata": {
-		"id": "4e44877c-1c8d-4f9c-ba86-1372d0fbeeb1",
-		"publisherDisplayName": "JuanCarlos Theme",
-		"publisherId": "fbb3d024-f8f2-460c-bdb5-99552f6d8c4b"
+		
+		"publisherDisplayName": "JuanCarlos Theme"
+		
 	}
 }
