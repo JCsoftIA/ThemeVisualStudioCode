@@ -5,6 +5,7 @@ const yaml = require('js-yaml');
 
 const THEME_DIR = path.join(__dirname, 'theme');
 const THEME_YAML_FILE = path.join(__dirname, 'src', 'JuanCarlos.yml');
+const THEME_YAML_FILE_SOFT = path.join(__dirname, 'src', 'JuanCarlos-Soft.yml');
 
 if (!fs.existsSync(THEME_DIR)) {
     fs.mkdirSync(THEME_DIR);
@@ -21,6 +22,7 @@ const withAlphaType = new yaml.Type('!alpha', {
 });
 const schema = yaml.Schema.create([withAlphaType]);
 const standard = fs.readFileSync(THEME_YAML_FILE, 'utf8');
+const soft = fs.readFileSync(THEME_YAML_FILE_SOFT, 'utf8');
 
 yamlObj = yaml.load(standard, { schema });
 
@@ -33,14 +35,14 @@ yamlObj.colors = Object.keys(yamlObj.colors).reduce((obj, key) => {
 
 const brightColors = [...yamlObj.JuanCarlos.ansi, ...yamlObj.JuanCarlos.brightOther];
 
-const soft = standard.replace(/'(#[0-9A-Z]{6})/g, (match, hex) => {
-    if (brightColors.indexOf(hex) > -1) {
-        return `'${tinycolor(hex)
-            .desaturate(20)
-            .toHexString()}`;
-    }
-    return `'${tinycolor(hex).toHexString()}`;
-});
+// const soft = standard.replace(/'(#[0-9A-Z]{6})/g, (match, hex) => {
+//     if (brightColors.indexOf(hex) > -1) {
+//         return `'${tinycolor(hex)
+//             .desaturate(20)
+//             .toHexString()}`;
+//     }
+//     return `'${tinycolor(hex).toHexString()}`;
+// });
 
 fs.writeFileSync(
     path.join(THEME_DIR, 'JuanCarlos.json'),
