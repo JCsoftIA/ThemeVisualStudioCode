@@ -5,7 +5,8 @@ maintainers:
 semanticClass: theme.JuanCarlos
 JuanCarlos:
   base:
-    # - &BG        '#000'
+    
+    - &BG        '#000'
     - &FG        '#F8F8F2'
     - &SELECTION '#44475A'
     - &COMMENT   '#6272A4'
@@ -21,7 +22,6 @@ JuanCarlos:
     - &RED       '#FF5555'
     # - &YELLOW    '#F1FA8C'el valor de yellow fue cambiado por el color amarillo brillante #f3f400
     - &YELLOW    '#f3f400'
-    - &BG        '#000'
   ansi:
     - &COLOR0        '#21222C'
     - &COLOR1        '#FF5555'
