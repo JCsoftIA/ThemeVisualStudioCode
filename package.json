@@ -1,6 +1,6 @@
 {
 	"name": "JCsoftIA",
-	"version": "1.1.427",
+	"version": "1.1.428",
 	"displayName": "Theme black - dark JuanCarlos (Ruth)",
 	"homepage": "https://JuanCarlostheme.com/",
 	"description": "JuanCarlos Black-Dark Theme. A dark theme for many editors, shells, and more.",
@@ -25,7 +25,7 @@
 		"url": "https://github.com/JCsoftIA/visual-studio-code.git"
 	},
 	"bugs": {
-		"url": "https://github.com/JCsoftIA/visual-studio-code/"
+		"url": "https://github.com/JCsoftIA/visual-studio-code.git"
 	},
 	"engines": {
 		"vscode": "^1.13.0"
