@@ -25,7 +25,7 @@
 		"url": "https://github.com/JCsoftIA/visual-studio-code.git"
 	},
 	"bugs": {
-		"url": "https://github.com/JCsoftIA/visual-studio-code/issues"
+		"url": "https://github.com/JCsoftIA/visual-studio-code/"
 	},
 	"engines": {
 		"vscode": "^1.13.0"
