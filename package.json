@@ -1,6 +1,6 @@
 {
 	"name": "JCsoftIA",
-	"version": "1.1.424",
+	"version": "1.1.427",
 	"displayName": "Theme black - dark JuanCarlos (Ruth)",
 	"homepage": "https://JuanCarlostheme.com/",
 	"description": "JuanCarlos Black-Dark Theme. A dark theme for many editors, shells, and more.",
@@ -17,7 +17,8 @@
 		"Juan Carlos Valencia Lopez <ajcarlos032@gmail.com>"
 	],
 	"contributors": [
-		"Juan Carlos Valencia Lopez"
+		"Juan Carlos Valencia Lopez",
+		"Ruth Suarez Torres"
 	],
 	"repository": {
 		"type": "git",
@@ -34,9 +35,10 @@
 	],
 	"keywords": [
 		"JuanCarlos",
+		"Ruth",
 		"dark",
 		"theme",
-		"color-theme"
+		"black-theme"
 	],
 	"icon": "icon2.jpg",
 	"galleryBanner": {
@@ -51,7 +53,7 @@
 				"path": "./theme/JuanCarlos.json"
 			},
 			{
-				"label": "JuanCarlos Soft",
+				"label": "Ruth",
 				"uiTheme": "vs-dark",
 				"path": "./theme/JuanCarlos-soft-IA.json"
 			}
