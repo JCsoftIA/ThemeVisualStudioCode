@@ -1,6 +1,6 @@
 {
 	"name": "JCsoftIA",
-	"version": "1.0.31",
+	"version": "1.1.424",
 	"displayName": "Theme black - dark JuanCarlos (Ruth)",
 	"homepage": "https://JuanCarlostheme.com/",
 	"description": "JuanCarlos Black-Dark Theme. A dark theme for many editors, shells, and more.",
@@ -38,7 +38,7 @@
 		"theme",
 		"color-theme"
 	],
-	"icon": "icon.jpg",
+	"icon": "icon2.jpg",
 	"galleryBanner": {
 		"color": "#3c4557",
 		"theme": "dark"
@@ -61,10 +61,5 @@
 		"js-yaml": "^3.12.0",
 		"prettier": "^1.14.3",
 		"tinycolor2": "^1.4.1"
-	},
-	"__metadata": {
-		"id": "9a5b75fd-ad21-4c3a-b261-8bdf75aff777",
-		"publisherId": "62130917-073e-4262-9bed-54397fa07caa",
-		"publisherDisplayName": "JCsoftIA"
 	}
 }
