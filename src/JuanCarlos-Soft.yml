@@ -20,8 +20,8 @@ JuanCarlos:
     # - &PURPLE    '#BD93F9'  el color purpple fue cambiado por un color rosa-claro #EFBDFF  
     - &PURPLE    '#EFBDFF'
     - &RED       '#FF5555'
-    # - &YELLOW    '#F1FA8C'el valor de yellow fue cambiado por el color morado fuerte #FF4000
-    - &YELLOW    '#FF4000'
+     # - &YELLOW    '#F1FA8C'el valor de yellow fue cambiado por el color amarillososcuro #df0152
+    - &YELLOW    '#df0152'
   ansi:
     - &COLOR0        '#21222C'
     - &COLOR1        '#FF5555'
