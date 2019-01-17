@@ -32,7 +32,7 @@ y tendras que hacer los comandos desde aqui
 
 
 
-ahora como lo activo?
+##  ahora como lo activo?
 
 Si estas en español te diriges a Archivo->Preferencias->Tema de Color, precionas enter y eliges JuanCarlos
 
@@ -40,3 +40,18 @@ Si estas en ingles pues solo te diriges a File -> Preferences -> Color Theme y e
 
 
 o simplemente con Ctrl+Shift+P y buscas Preferencias:Tema de Color y hualaa es lo mismo pero mas simple 
+
+
+### Aqui les dejo mi configuracion de visual studio code
+    "workbench.colorTheme": "JuanCarlos",
+    "material-icon-theme.folders.color": "#0145a5",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "Consolas,PT Mono",
+    "editor.fontSize": 18,
+    "window.zoomLevel": 0,
+    "editor.mouseWheelZoom": true,
+    "editor.fontWeight": "500",
+    "editor.lineNumbers": "on",
+    "editor.renderWhitespace": "all",
+    "editor.formatOnPaste": true,
+    "editor.tabSize": 2,
