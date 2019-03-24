@@ -43,11 +43,12 @@ o simplemente con Ctrl+Shift+P y buscas Preferencias:Tema de Color y hualaa es l
 
 
 ### Aqui les dejo mi configuracion de visual studio code
-    "workbench.colorTheme": "JuanCarlos",
-    "material-icon-theme.folders.color": "#0145a5",
+{
+    "material-icon-theme.folders.color": "#058e05",
     "workbench.iconTheme": "material-icon-theme",
-    "editor.fontFamily": "Consolas,PT Mono",
-    "editor.fontSize": 18,
+    "editor.fontFamily": "Hack, 'Comic Sans MS',Operator Mono, Consolas, Arial",
+    "editor.wordWrap": "on",
+    "editor.fontSize": 15,
     "window.zoomLevel": 0,
     "editor.mouseWheelZoom": true,
     "editor.fontWeight": "500",
@@ -55,3 +56,9 @@ o simplemente con Ctrl+Shift+P y buscas Preferencias:Tema de Color y hualaa es l
     "editor.renderWhitespace": "all",
     "editor.formatOnPaste": true,
     "editor.tabSize": 2,
+    "editor.letterSpacing": -1,
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "terminal.integrated.fontFamily": "hack",
+    "terminal.integrated.enableBell": true,
+    "workbench.colorTheme": "JuanCarlos Italic",
+}
