@@ -51,11 +51,30 @@
 				"label": "JuanCarlos",
 				"uiTheme": "vs-dark",
 				"path": "./theme/JuanCarlos.json"
-			},
+			}
+			,
 			{
-				"label": "Ruth",
+				"label": "JuanCarlos Italic",
 				"uiTheme": "vs-dark",
-				"path": "./theme/JuanCarlos-soft-IA.json"
+				"path": "./theme/JuanCarlosItalic.json"
+			}
+			,
+			{
+				"label": "JuanCarlos Black",
+				"uiTheme": "vs-dark",
+				"path": "./theme/JuanCarlosBlack.json"
+			}
+			,
+			{
+				"label": "JuanCarlos DarkBlue",
+				"uiTheme": "vs-dark",
+				"path": "./theme/JuanCarlosDarkBlue.json"
+			}
+			,
+			{
+				"label": "JuanCarlos DarkRed",
+				"uiTheme": "vs-dark",
+				"path": "./theme/JuanCarlosDarkRed.json"
 			}
 		]
 	},
