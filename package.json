@@ -40,7 +40,7 @@
 		"theme",
 		"black-theme"
 	],
-	"icon": "icon2.jpg",
+	"icon": "https://jcsoftia.github.io/MiMarca/img/logo.png",
 	"galleryBanner": {
 		"color": "#3c4557",
 		"theme": "dark"
