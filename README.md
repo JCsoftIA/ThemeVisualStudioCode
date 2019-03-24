@@ -43,7 +43,8 @@ o simplemente con Ctrl+Shift+P y buscas Preferencias:Tema de Color y hualaa es l
 
 
 ### Aqui les dejo mi configuracion de visual studio code
-```{
+```
+{
     "material-icon-theme.folders.color": "#058e05",
     "workbench.iconTheme": "material-icon-theme",
     "editor.fontFamily": "Hack, 'Comic Sans MS',Operator Mono, Consolas, Arial",
@@ -61,4 +62,5 @@ o simplemente con Ctrl+Shift+P y buscas Preferencias:Tema de Color y hualaa es l
     "terminal.integrated.fontFamily": "hack",
     "terminal.integrated.enableBell": true,
     "workbench.colorTheme": "JuanCarlos Italic",
-}```
+}
+```
