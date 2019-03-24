@@ -693,6 +693,7 @@ tokenColors:
     - punctuation.definition.keyword
     settings:
       foreground: *TAG
+      fontStyle: italic
 
   - name: Keyword "new"
     scope:
