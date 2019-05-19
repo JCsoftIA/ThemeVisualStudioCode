@@ -3,6 +3,8 @@
 
 como instalo?
 >[Click para instalar](https://marketplace.visualstudio.com/items?itemName=JCsoftIA.JCsoftIA)
+
+
 pues es muy simple solo tienes que tener
 
 >[git](https://git-scm.com/downloads)
