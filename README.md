@@ -69,6 +69,7 @@ o simplemente con Ctrl+Shift+P y buscas Preferencias:Tema de Color y hualaa es l
 
 
 ```
+### Otra configuracion
 ```
 {
     "material-icon-theme.folders.color": "#058e05",
@@ -76,14 +77,14 @@ o simplemente con Ctrl+Shift+P y buscas Preferencias:Tema de Color y hualaa es l
     "editor.fontFamily": "'operator mono book', Hack, Consolas, Arial",
     "editor.wordWrap": "on",
     "editor.fontSize": 16,
-    "window.zoomLevel": 0,
+    "window.zoomLevel": 0.65,
     "editor.mouseWheelZoom": false,
-    "editor.fontWeight": "600",
+    "editor.fontWeight": "500",
     "editor.lineNumbers": "on",
     "editor.renderWhitespace": "all",
     "editor.formatOnPaste": true,
     "editor.tabSize": 4,
-    "editor.letterSpacing": 0,
+    "editor.letterSpacing": -0.2,
     "terminal.integrated.fontFamily": "hack",
     "terminal.integrated.enableBell": true,
     "[javascript]": {
@@ -100,10 +101,10 @@ o simplemente con Ctrl+Shift+P y buscas Preferencias:Tema de Color y hualaa es l
         "sideBarSectionHeader.foreground": "#ffffff",
         "activityBar.border": "#000000",
         "statusBar.background": "#00070a",
-        "scrollbarSlider.activeBackground": "#000000",
-        "scrollbarSlider.hoverBackground": "#484e4d",
+        "scrollbarSlider.activeBackground": "#838392",
+        "scrollbarSlider.hoverBackground": "#52565a",
         "badge.background": "#006b29",
-        "tab.activeBackground": "#282c34",
+        "tab.activeBackground": "#8c98b1",
         "activityBar.background": "#13161a",
         // "sideBar.background": "#13161a",
         "editor.background": "#000",
