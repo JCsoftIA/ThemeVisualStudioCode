@@ -69,6 +69,7 @@ o simplemente con Ctrl+Shift+P y buscas Preferencias:Tema de Color y hualaa es l
 
 
 ```
+```
 {
     "material-icon-theme.folders.color": "#058e05",
     "workbench.iconTheme": "material-icon-theme",
@@ -110,3 +111,4 @@ o simplemente con Ctrl+Shift+P y buscas Preferencias:Tema de Color y hualaa es l
     },
     "workbench.colorTheme": "JuanCarlos Italic"
 }
+```
