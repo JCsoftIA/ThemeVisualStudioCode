@@ -95,21 +95,20 @@ o simplemente con Ctrl+Shift+P y buscas Preferencias:Tema de Color y hualaa es l
     },
     "workbench.colorCustomizations": {
         "list.inactiveSelectionBackground": "#1d2830",
-        "sideBar.background": "#000000",
-        "sideBar.foreground": "#0271da",
-        "sideBarSectionHeader.background": "#000000",
-        "sideBarSectionHeader.foreground": "#ffffff",
-        "activityBar.border": "#000000",
+        "sideBar.background": "#030303",
+        "sideBar.foreground": "#1bbb06",
+        "sideBarSectionHeader.background": "#0d0a0a",
+        "sideBarSectionHeader.foreground": "#3a3b3b",
+        "activityBar.border": "#0d0a0a",
         "statusBar.background": "#00070a",
         "scrollbarSlider.activeBackground": "#838392",
         "scrollbarSlider.hoverBackground": "#52565a",
         "badge.background": "#006b29",
-        "tab.activeBackground": "#8c98b1",
+        "tab.activeBackground": "#34363b",
         "activityBar.background": "#13161a",
         // "sideBar.background": "#13161a",
-        "editor.background": "#000",
+        "editor.background": "#050303",
         "editor.foreground": "#333",
     },
     "workbench.colorTheme": "JuanCarlos Italic"
-}
 ```
