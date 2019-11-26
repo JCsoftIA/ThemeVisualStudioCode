@@ -65,4 +65,48 @@ o simplemente con Ctrl+Shift+P y buscas Preferencias:Tema de Color y hualaa es l
     "terminal.integrated.enableBell": true,
     "workbench.colorTheme": "JuanCarlos Italic",
 }
+
+
+
 ```
+{
+    "material-icon-theme.folders.color": "#058e05",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "'operator mono book', Hack, Consolas, Arial",
+    "editor.wordWrap": "on",
+    "editor.fontSize": 16,
+    "window.zoomLevel": 0,
+    "editor.mouseWheelZoom": false,
+    "editor.fontWeight": "600",
+    "editor.lineNumbers": "on",
+    "editor.renderWhitespace": "all",
+    "editor.formatOnPaste": true,
+    "editor.tabSize": 4,
+    "editor.letterSpacing": 0,
+    "terminal.integrated.fontFamily": "hack",
+    "terminal.integrated.enableBell": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[HTML]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.colorCustomizations": {
+        "list.inactiveSelectionBackground": "#1d2830",
+        "sideBar.background": "#000000",
+        "sideBar.foreground": "#0271da",
+        "sideBarSectionHeader.background": "#000000",
+        "sideBarSectionHeader.foreground": "#ffffff",
+        "activityBar.border": "#000000",
+        "statusBar.background": "#00070a",
+        "scrollbarSlider.activeBackground": "#000000",
+        "scrollbarSlider.hoverBackground": "#484e4d",
+        "badge.background": "#006b29",
+        "tab.activeBackground": "#282c34",
+        "activityBar.background": "#13161a",
+        // "sideBar.background": "#13161a",
+        "editor.background": "#000",
+        "editor.foreground": "#333",
+    },
+    "workbench.colorTheme": "JuanCarlos Italic"
+}
