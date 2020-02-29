@@ -47,68 +47,30 @@ o simplemente con Ctrl+Shift+P y buscas Preferencias:Tema de Color y hualaa es l
 ### Aqui les dejo mi configuracion de visual studio code
 ```
 {
-    "material-icon-theme.folders.color": "#058e05",
     "workbench.iconTheme": "material-icon-theme",
-    "editor.fontFamily": "Hack, 'Comic Sans MS',Operator Mono, Consolas, Arial",
-    "editor.wordWrap": "on",
-    "editor.fontSize": 15,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
     "window.zoomLevel": 0,
-    "editor.mouseWheelZoom": true,
+    "editor.fontSize": 22,
     "editor.fontWeight": "500",
-    "editor.lineNumbers": "on",
-    "editor.renderWhitespace": "all",
-    "editor.formatOnPaste": true,
-    "editor.tabSize": 2,
     "editor.letterSpacing": -1,
-    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
-    "terminal.integrated.fontFamily": "hack",
-    "terminal.integrated.enableBell": true,
-    "workbench.colorTheme": "JuanCarlos Italic",
+    "editor.fontFamily": "'Dank Mono','Fira Code','Cascadia Code'",
+    "editor.fontLigatures": true,
+    "editor.wordWrap": "on",
+    "synthwave84.disableGlow": true,
+    "terminal.integrated.fontFamily":"'Cascadia Code','Dank Mono','Fira Code'",
+    "terminal.integrated.fontSize":18,
+    
+    "breadcrumbs.enabled": false,
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.renderLineHighlight": "gutter",
+    "editor.smoothScrolling": true,
+    "window.autoDetectColorScheme": true,
+    "workbench.editor.tabSizing": "shrink",
+    "workbench.statusBar.visible": false,
+    "workbench.tree.indent": 10,
+    "workbench.colorTheme": "JC bestR1",
 }
 
 
 
-```
-### Otra configuracion
-```
-{
-    "material-icon-theme.folders.color": "#058e05",
-    "workbench.iconTheme": "material-icon-theme",
-    "editor.fontFamily": "'operator mono book', Hack, Consolas, Arial",
-    "editor.wordWrap": "on",
-    "editor.fontSize": 16,
-    "window.zoomLevel": 0.65,
-    "editor.mouseWheelZoom": false,
-    "editor.fontWeight": "500",
-    "editor.lineNumbers": "on",
-    "editor.renderWhitespace": "all",
-    "editor.formatOnPaste": true,
-    "editor.tabSize": 4,
-    "editor.letterSpacing": -0.2,
-    "terminal.integrated.fontFamily": "hack",
-    "terminal.integrated.enableBell": true,
-    "[javascript]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "[HTML]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "workbench.colorCustomizations": {
-        "list.inactiveSelectionBackground": "#1d2830",
-        "sideBar.background": "#030303",
-        "sideBar.foreground": "#1bbb06",
-        "sideBarSectionHeader.background": "#0d0a0a",
-        "sideBarSectionHeader.foreground": "#3a3b3b",
-        "activityBar.border": "#0d0a0a",
-        "statusBar.background": "#00070a",
-        "scrollbarSlider.activeBackground": "#838392",
-        "scrollbarSlider.hoverBackground": "#52565a",
-        "badge.background": "#006b29",
-        "tab.activeBackground": "#34363b",
-        "activityBar.background": "#13161a",
-        // "sideBar.background": "#13161a",
-        "editor.background": "#050303",
-        "editor.foreground": "#333",
-    },
-    "workbench.colorTheme": "JuanCarlos Italic"
 ```
