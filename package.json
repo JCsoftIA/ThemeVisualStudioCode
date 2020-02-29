@@ -1,8 +1,8 @@
 {
-	"name": "JCsoftIA",
-	"version": "1.2.0",
+	"name": "jcsoftia",
+	"version": "1.5.2",
 	"displayName": "Theme black - dark JuanCarlos (Ruth)",
-	"homepage": "https://jcsoftia.github.io/MiMarca/juancarlos.html",
+	"homepage": "https://jcsoftia.github.io/jcsoftia/juancarlos.html",
 	"description": "JuanCarlos Black-Dark Theme. A dark theme for many editors, shells, and more.",
 	"publisher": "JCsoftIA",
 	"license": "MIT",
@@ -22,10 +22,10 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/JCsoftIA/ThemeVisualStudioCode.git"
+		"url": "https://github.com/jcsoftia/ThemeVisualStudioCode.git"
 	},
 	"bugs": {
-		"url": "https://github.com/JCsoftIA/ThemeVisualStudioCode.git"
+		"url": "https://github.com/jcsoftia/ThemeVisualStudioCode.git"
 	},
 	"engines": {
 		"vscode": "^1.13.0"
@@ -38,7 +38,9 @@
 		"Ruth",
 		"dark",
 		"theme",
-		"black-theme"
+		"black-theme",
+		"jcsoftia",
+		"theme vscode"
 	],
 	"icon": "icon2.jpg",
 	"galleryBanner": {
@@ -48,29 +50,24 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "JuanCarlos",
+				"label": "JC bestR1",
+				"uiTheme": "vs-dark",
+				"path": "./theme/bestR1.json"
+			},
+			{
+				"label": "JC bestR2",
+				"uiTheme": "vs-dark",
+				"path": "./theme/bestR2.json"
+			},
+			{
+				"label": "JC Black",
+				"uiTheme": "vs-dark",
+				"path": "./theme/JuanCarlosBack.json"
+			},
+			{
+				"label": "JC past",
 				"uiTheme": "vs-dark",
 				"path": "./theme/JuanCarlos.json"
-			},
-			{
-				"label": "JuanCarlos Italic",
-				"uiTheme": "vs-dark",
-				"path": "./theme/JuanCarlosItalic.json"
-			},
-			{
-				"label": "JuanCarlos Black",
-				"uiTheme": "vs-dark",
-				"path": "./theme/JuanCarlosBlack.json"
-			},
-			{
-				"label": "JuanCarlos DarkBlue",
-				"uiTheme": "vs-dark",
-				"path": "./theme/JuanCarlosDarkBlue.json"
-			},
-			{
-				"label": "JuanCarlos DarkRed",
-				"uiTheme": "vs-dark",
-				"path": "./theme/JuanCarlosDarkRed.json"
 			}
 		]
 	},

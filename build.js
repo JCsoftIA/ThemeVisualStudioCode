@@ -47,14 +47,6 @@ yamlObj.colors = Object.keys(yamlObj.colors).reduce((obj, key) => {
 
 const brightColors = [...yamlObj.JuanCarlos.ansi, ...yamlObj.JuanCarlos.brightOther];
 
-// const soft = standard.replace(/'(#[0-9A-Z]{6})/g, (match, hex) => {
-//     if (brightColors.indexOf(hex) > -1) {
-//         return `'${tinycolor(hex)
-//             .desaturate(20)
-//             .toHexString()}`;
-//     }
-//     return `'${tinycolor(hex).toHexString()}`;
-// });
 
 fs.writeFileSync(
     path.join(THEME_DIR, 'JuanCarlos.json'),
